@@ -1,0 +1,56 @@
+* {
+    font-family: Tahoma , sans-serif;
+}
+
+p {
+    text-align: justify;
+    text-indent: 20px;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 100;
+    line-height: 1.5;
+}
+
+.content-photo {
+    width: 150px;
+    height: 150px;
+}
+
+.text-restyle {
+    color: red;
+}
+
+.text-restyle-abbreviation {
+
+    font-weight: bold;
+
+}
+
+.transcript {
+    font-size: smaller;
+    font-style: italic;
+
+
+}
+
+.text-restyle-xs {
+    font-size: smaller;
+}
+
+.pashalka {
+    color: blue !important;
+    font-weight: bold;
+}
+
+.text-restyle-abbreviation-xs {
+    font-size: smaller;
+    font-style: italic;
+}
+
+.text-restyle-abbreviation-style {
+    font-style: italic;
+}
+.text-restyle-red {
+    color: red;
+}
